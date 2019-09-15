@@ -204,6 +204,7 @@ $sql = "SELECT * FROM log_divisas ".$id." ORDER BY id DESC limit 1;";
 </table>
 <br />
 </div>
+<strong>fin del documento html</strong>
 </body>
 </html>
        
