@@ -206,6 +206,7 @@ $sql = "SELECT * FROM log_divisas ".$id." ORDER BY id DESC limit 1;";
 </div>
 <strong>fin del documento html</strong>
 <strong>agregamos un segundo strong</strong>
+<spam>este info estara en la nueva rama</spam>
 </body>
 </html>
        
